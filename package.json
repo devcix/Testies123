@@ -1,0 +1,35 @@
+{
+  "name": "scrumdog",
+  "version": "1.0.0",
+  "description": "A simple but robust Scrum Standup Assistant app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcix/scrumdog.git"
+  },
+  "keywords": [
+    "scrum",
+    "scrumdog",
+    "standup",
+    "stand-up",
+    "cixtian",
+    "cix",
+    "proquest"
+  ],
+  "author": "Cixtian Rush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devcix/scrumdog/issues"
+  },
+  "homepage": "https://github.com/devcix/scrumdog#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "method-override": "^2.3.9",
+    "node-restful": "^0.2.6"
+  }
+}
